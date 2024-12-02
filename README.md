@@ -24,7 +24,7 @@ The library uses an API that will allow members to view, add, update, and remove
     node seed.js 
     ```
 
-4. **Run the backend**
+4. **Run the Backend**
     ```bash
     node index.js
     ```
